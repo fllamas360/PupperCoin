@@ -21,12 +21,12 @@ Inherit the following OpenZeppelin library contracts:
 ### Follow these steps to deploy, run, and transact the contract.
 
 
-![Deployer](deployer.png)
+![Deployer](Images/deployer.png)
 
-![Metamask](DeployMetamask.png)
+![Metamask](Images/DeployMetamask.png)
 
-![Deploy and Run](Deploy_Run.png)
+![Deploy and Run](Images/Deploy_Run.png)
 
-![Buy Tokens](BuyTokens.png)
+![Buy Tokens](Images/BuyTokens.png)
 
-![Purchase](Purchase.png)
+![Purchase](Images/Purchase.png)
